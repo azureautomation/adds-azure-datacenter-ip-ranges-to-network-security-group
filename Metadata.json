@@ -1,0 +1,20 @@
+{
+    "Author": "AvihaiH",
+    "ContentSize": 2525,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/adds-azure-datacenter-ip-ranges-to-network-security-group/master/Azure_DataCenter_WhitelistIP.ps1",
+    "DownloadCount": 1057,
+    "Id": "Adds-Azure-Datacenter-IP-dbeebe0c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 350,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Adds whitelist IPs from Azure Datacenter IP Ranges XML to Azure Network Security Group.This script will help you the adds Azure datacenter IP ranges of a specific region to Azure Network Security Group.",
+    "Title": "Adds Azure Datacenter IP Ranges to Network Security Group",
+    "UpdatedDate": "2017-6-18T00:00:00",
+    "Url": "https://github.com/azureautomation/adds-azure-datacenter-ip-ranges-to-network-security-group",
+    "UserTags": "Microsoft Azure, Windows PowerShell, Network Security Groups"
+}
